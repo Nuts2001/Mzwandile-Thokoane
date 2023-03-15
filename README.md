@@ -6,7 +6,7 @@ This is my personal Webpage where you will, in the nearest future get all the in
 
 So, _**Have fun and Enjoy!**_
 
-[Facebook](https://www.https://www.facebook.com/mzwandile_thokoane)
+[Facebook](https://www.facebook.com/mzwandile.thokoane/)
 [LinkedIn](https://www.linkedin.com/in/mzwandile-thokoane-697577b1/)
 [Twitter](https://twitter.com/thokoane)
 [Instagram](https://www.instagram.com/mzwandile_nuts/)
