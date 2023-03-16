@@ -5,6 +5,19 @@
 ### **BIOGRAPHY**
 > ### **Self-taught Web Developer, Nature-Based Solutions (NbS), Ecosystem-based Adaptation (EbA), Climate Actor, Humaritarian Mapper, Renowned Physical Planner, Sustainable Cities Advocate, All Things GIS**
 
+### **SKILLS**
+> #### · ArcGIS Desktop 
+> #### · Open-Source Software
+> #### · Cascading Style Sheets (CSS)
+> #### · GitHub 
+> #### · Web Mapping
+> #### · Digital Mapping 
+> #### · Field Mapping 
+> #### · Mobile Data Collection
+> #### · HTML5 
+> #### · Quantum GIS 
+> #### · Geographic Information Systems (GIS)
+
 
 
 
