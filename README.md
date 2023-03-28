@@ -34,7 +34,7 @@
 
 ### This is my personal Webpage where you will, in the nearest future get all the information about myself; Educational Background, a lil bit of my personal and family life and all sorts of stuff about me.
 
-## [Hook Me Up Here;](https://www.jotform.com/form/230859197599579)
+[Hook Me Up Here;](https://www.jotform.com/form/230859197599579)
 
 
 [Facebook](https://www.facebook.com/mzwandile.thokoane/)
