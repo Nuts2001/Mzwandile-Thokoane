@@ -36,7 +36,7 @@
 
 Hook Me Up on [email](https://www.jotform.com/form/230859197599579)
 
-Get a specialized [Quote] to suit your pocket and clientelle (https://form.jotform.com/230865993558575) 
+Get a specialized [Quote] to suit your pocket and clientelle(https://form.jotform.com/230865993558575) 
 
 
 [Facebook](https://www.facebook.com/mzwandile.thokoane/)
