@@ -23,7 +23,7 @@
 > - Street View photos
 > - @mapillary swag distribution
 
-> 
+> ![DAL logo](https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D2402906706482964&tbnid=ySGhbdD2Rzn-gM&vet=1&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fgroups%2F1666469383392976%2F&docid=Va0-Z3klSM5bIM&w=534&h=755&itg=1&hl=en-US&source=sh%2Fx%2Fim%2Fm6%2F4&kgs=d3d31a554ea3004b&shem=abme%2Ctrie)
 > ### Chairperson; Diabetes Association of Lesotho, Berea: June 2022 to date 
 > #### Teyateyaneng
 > - Advocacy for Diabetes Mellitus 
