@@ -2,10 +2,10 @@
 
 >![Mzwandile Thokoane](Suit.jpg)
 
-### **BIOGRAPHY**
+>### **BIOGRAPHY**
 ### **Self-taught Web Developer, Nature-Based Solutions (NbS), Ecosystem-based Adaptation (EbA), Climate Actor, Humaritarian Mapper, Renowned Physical Planner, Sustainable Cities Advocate, All Things GIS**
-
-### **SKILLS**
+ 
+>### **SKILLS**
 · HTML5, CSS
 · GitHub 
 · ArcGIS Desktop 
@@ -15,7 +15,7 @@
 · Field Mapping 
 · Mobile Data Collection
 
-### **VOLUNTARY WORK**
+>### **VOLUNTARY WORK**
 >![Mapillary logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mapillary_logo.svg/240px-Mapillary_logo.svg.png)
 > ### Mapillary Ambassador: Nov 2016 - Oct 2021 · 5 yrs
 > ##### Teyateyaneng 
@@ -36,7 +36,7 @@
 
 #### _This is my personal Webpage where you will, in the nearest future get all the information about myself; Educational Background, a lil bit of my personal and family life and all sorts of stuff about me._
 
-## Documents 
+>## Documents 
 1. [Land Management using QGIS: A Comprehensive Workflow](https://gamma.app/docs/rqov72b9zju7kcj)
 2. [Introduction to Spatial Data Management](https://gamma.app/docs/j5ysvmf7z6mndiv)
 
