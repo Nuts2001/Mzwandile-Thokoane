@@ -1,8 +1,8 @@
->### Mzwandile Thokoane 
+>>>>>>>>### Mzwandile Thokoane 
 
 >>>>![Mzwandile Thokoane](Suit.jpg)
 
->>>>### **BIOGRAPHY**
+>>>>>>>>### **BIOGRAPHY**
 ### **Self-taught Web Developer, Nature-Based Solutions (NbS), Ecosystem-based Adaptation (EbA), Climate Actor, Humaritarian Mapper, Renowned Physical Planner, Sustainable Cities Advocate, All Things GIS**
  
 >### **SKILLS**
