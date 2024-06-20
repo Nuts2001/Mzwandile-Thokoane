@@ -1,6 +1,6 @@
 # Mzwandile Thokoane 
 
-![Mzwandile Thokoane](https://media.licdn.com/dms/image/C5103AQGTSLYS4017cg/profile-displayphoto-shrink_200_200/0/1517535082564?e=1684368000&v=beta&t=eTZWwuZgqUObLVZ8IXkTgxI5PWtbV5bQJ2Gjbs4a0PM)
+![Mzwandile Thokoane](suit.jpg)
 
 ### **BIOGRAPHY**
 ### **Self-taught Web Developer, Nature-Based Solutions (NbS), Ecosystem-based Adaptation (EbA), Climate Actor, Humaritarian Mapper, Renowned Physical Planner, Sustainable Cities Advocate, All Things GIS**
