@@ -38,6 +38,8 @@
 1. [Land Management using QGIS: A Comprehensive Workflow](https://gamma.app/docs/rqov72b9zju7kcj)
 2. [Introduction to Spatial Data Management](https://gamma.app/docs/j5ysvmf7z6mndiv)
 
+## Get in touch
+
 Hook Me Up on [email](https://www.jotform.com/form/230859197599579)
 
 Get a specialized [Quote](https://form.jotform.com/230865993558575) 
