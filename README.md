@@ -54,8 +54,8 @@ or
 
 > •[linkedIn](https://www.linkedin.com/in/mzwandile-thokoane-697577b1/)
 
-> • [Twitter](https://twitter.com/thokoane)
+> •[Twitter](https://twitter.com/thokoane)
 
-> • [Instagram](https://www.instagram.com/mzwandile_nuts/)
+> •[Instagram](https://www.instagram.com/mzwandile_nuts/)
 
 > •[TikTok](tiktok.com/@mzwandilethokoane)
