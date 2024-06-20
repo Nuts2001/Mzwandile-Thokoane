@@ -44,7 +44,7 @@
 
 >Hook Me Up on [WhatsApp](https://wa.me/26662494999)
 or
-[email](https://www.jotform.com/form/230859197599579)
+[Email](https://www.jotform.com/form/230859197599579)
 
 >Get a specialized [Quote](https://form.jotform.com/230865993558575)
 
@@ -52,7 +52,7 @@ or
 
 > •[Facebook](https://www.facebook.com/mzwandile.thokoane/)
 
-> •[linkedIn](https://www.linkedin.com/in/mzwandile-thokoane-697577b1/)
+> •[LinkedIn](https://www.linkedin.com/in/mzwandile-thokoane-697577b1/)
 
 > •[Twitter](https://twitter.com/thokoane)
 
