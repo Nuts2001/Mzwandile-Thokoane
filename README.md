@@ -22,11 +22,11 @@
 
 ![Mapillary logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mapillary_logo.svg/240px-Mapillary_logo.svg.png)
 
->> ### Mapillary Ambassador: Nov 2016 - Oct 2021 · 5 yrs
->> ##### Teyateyaneng 
->> - Mapillary advocacy 
->> - Street View photos
->> - @mapillary swag distribution
+> ### Mapillary Ambassador: Nov 2016 - Oct 2021 · 5 yrs
+> ##### Teyateyaneng 
+> - Mapillary advocacy 
+> - Street View photos
+> - @mapillary swag distribution
 
 
 
