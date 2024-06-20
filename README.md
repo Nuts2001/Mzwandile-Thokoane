@@ -1,4 +1,4 @@
->### Mzwandile Thokoane 
+hi>### Mzwandile Thokoane 
 
 >![Mzwandile Thokoane](Suit.jpg)
 
@@ -40,17 +40,17 @@
 1. [Land Management using QGIS: A Comprehensive Workflow](https://gamma.app/docs/rqov72b9zju7kcj)
 2. [Introduction to Spatial Data Management](https://gamma.app/docs/j5ysvmf7z6mndiv)
 
-## Get in touch
+>## Get in touch
 
-Hook Me Up on [email](https://www.jotform.com/form/230859197599579)
+>Hook Me Up on [email](https://www.jotform.com/form/230859197599579)
 
-Get a specialized [Quote](https://form.jotform.com/230865993558575) 
+>Get a specialized [Quote](https://form.jotform.com/230865993558575) 
 
 
-[Facebook](https://www.facebook.com/mzwandile.thokoane/)
+>[Facebook](https://www.facebook.com/mzwandile.thokoane/)
 
-[linkedIn](https://www.linkedin.com/in/mzwandile-thokoane-697577b1/)
+>[linkedIn](https://www.linkedin.com/in/mzwandile-thokoane-697577b1/)
 
-[Twitter](https://twitter.com/thokoane)
+>[Twitter](https://twitter.com/thokoane)
 
-[Instagram](https://www.instagram.com/mzwandile_nuts/)
+>[Instagram](https://www.instagram.com/mzwandile_nuts/)
