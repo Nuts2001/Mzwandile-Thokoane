@@ -16,8 +16,7 @@
 · Mobile Data Collection
 
 ### **VOLUNTARY WORK**
-
-![Mapillary logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mapillary_logo.svg/240px-Mapillary_logo.svg.png)
+>![Mapillary logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Mapillary_logo.svg/240px-Mapillary_logo.svg.png)
 
 > ### Mapillary Ambassador: Nov 2016 - Oct 2021 · 5 yrs
 > ##### Teyateyaneng 
@@ -26,7 +25,10 @@
 > - @mapillary swag distribution
 
 > ### Chair Person; Diabetes Association of Lesotho, Berea: June 2022 to date 
-
+> #### Teyateyaneng
+> - Advocacy for Diabetes Mellitus 
+> - Coordination between DMs and the Ministry of Health, Lesotho 
+> - Coordinate with the International Diabetes Federation (IDF)
 
 
 
