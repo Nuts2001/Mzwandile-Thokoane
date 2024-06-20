@@ -7,15 +7,14 @@
 
 ### **SKILLS**
 
-#### · HTML5
-#### · CSS
+#### · HTML5, CSS
 #### · GitHub 
 #### · ArcGIS Desktop 
 #### · QGIS and QField
 #### · Web Mapping
 #### · Digital Mapping 
 #### · Field Mapping 
-#### · Mobile Data Collection
+· Mobile Data Collection
 
 ### **VOLUNTARY WORK**
 
