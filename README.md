@@ -7,7 +7,7 @@
 
 So, _**Have fun and Enjoy!**_
 
-Click on the link to read my document on Land Management using QGIS;   https://gamma.app/docs/rqov72b9zju7kcj
+Click on the link to read my document on ![Land Management using QGIS;]   (https://gamma.app/docs/rqov72b9zju7kcj)
 
 [Facebook](https://www.facebook.com/mzwandile.thokoane/)
 [linkedIn](https://www.linkedin.com/in/mzwandile-thokoane-697577b1/)
