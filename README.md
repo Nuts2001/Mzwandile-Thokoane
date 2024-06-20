@@ -42,7 +42,9 @@
 
 >## Get in touch
 
->Hook Me Up on [WhatsApp] on (https://github.com/Nuts2001/Mzwandile-Thokoane/issues/2#issue-2363491989) or  [email] me on (https://www.jotform.com/form/230859197599579)
+>Hook Me Up on [WhatsApp](https://github.com/Nuts2001/Mzwandile-Thokoane/issues/2#issue-2363491989)
+or
+[email](https://www.jotform.com/form/230859197599579)
 
 >Get a specialized [Quote](https://form.jotform.com/230865993558575)
 
