@@ -28,7 +28,7 @@
 > #### Teyateyaneng
 > - Advocacy for Diabetes Mellitus 
 > - Coordination between DMs and the Ministry of Health, Lesotho 
-> - Coordinate with the International Diabetes Federation (IDF)
+> - Coordinate with the International Diabetes Federation ([IDF](https://idf.org/our-network/regions-and-members/africa/members/lesotho/lesotho-diabetes-association/))
 > - Devising strategies to combat the spread of type II diabetes and the occurrence of death related thereto
 > - Keeping records of Diabetes related fatalities 
 
