@@ -43,14 +43,8 @@ hi>### Mzwandile Thokoane
 >## Get in touch
 
 >Hook Me Up on [email](https://www.jotform.com/form/230859197599579)
-
 >Get a specialized [Quote](https://form.jotform.com/230865993558575) 
-
-
 >[Facebook](https://www.facebook.com/mzwandile.thokoane/)
-
 >[linkedIn](https://www.linkedin.com/in/mzwandile-thokoane-697577b1/)
-
 >[Twitter](https://twitter.com/thokoane)
-
 >[Instagram](https://www.instagram.com/mzwandile_nuts/)
