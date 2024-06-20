@@ -6,14 +6,13 @@
 ### **Self-taught Web Developer, Nature-Based Solutions (NbS), Ecosystem-based Adaptation (EbA), Climate Actor, Humaritarian Mapper, Renowned Physical Planner, Sustainable Cities Advocate, All Things GIS**
 
 ### **SKILLS**
-
-#### · HTML5, CSS
-#### · GitHub 
-#### · ArcGIS Desktop 
-#### · QGIS and QField
-#### · Web Mapping
-#### · Digital Mapping 
-#### · Field Mapping 
+· HTML5, CSS
+· GitHub 
+· ArcGIS Desktop 
+· QGIS and QField
+· Web Mapping
+· Digital Mapping 
+· Field Mapping 
 · Mobile Data Collection
 
 ### **VOLUNTARY WORK**
@@ -25,6 +24,8 @@
 > - Mapillary advocacy 
 > - Street View photos
 > - @mapillary swag distribution
+
+> ### Chair Person; Diabetes Association of Lesotho, Berea: June 2022 to date 
 
 
 
