@@ -42,7 +42,7 @@
 
 >## Get in touch
 
->Hook Me Up on [WhatsApp](https://whatsapp.com/dl/)
+>Hook Me Up on [WhatsApp](https://wa.me/26662494999)
 or
 [email](https://www.jotform.com/form/230859197599579)
 
