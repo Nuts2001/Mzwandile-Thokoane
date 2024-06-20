@@ -1,4 +1,4 @@
-h>### Mzwandile Thokoane 
+>### Mzwandile Thokoane 
 
 >![Mzwandile Thokoane](Suit.jpg)
 
@@ -48,6 +48,9 @@ h>### Mzwandile Thokoane
 
 Or get down to my Socials;
 >[Facebook](https://www.facebook.com/mzwandile.thokoane/)
+
 >[linkedIn](https://www.linkedin.com/in/mzwandile-thokoane-697577b1/)
+
 >[Twitter](https://twitter.com/thokoane)
+
 >[Instagram](https://www.instagram.com/mzwandile_nuts/)
