@@ -24,12 +24,14 @@
 > - Street View photos
 > - @mapillary swag distribution
 
+> 
 > ### Chairperson; Diabetes Association of Lesotho, Berea: June 2022 to date 
 > #### Teyateyaneng
 > - Advocacy for Diabetes Mellitus 
 > - Coordination between DMs and the Ministry of Health, Lesotho 
 > - Coordinate with the International Diabetes Federation (IDF)
 > - Devising strategies to combat the spread of type II diabetes and the occurrence of death related thereto
+> - Keeping records of Diabetes related fatalities 
 
 
 
