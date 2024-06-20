@@ -8,7 +8,8 @@
 So, _**Have fun and Enjoy!**_
 
 ```html
-iframe src="https://gamma.app/embed/rqov72b9zju7kcj" style="width: 700px; max-width: 100%; height: 450px" allow="fullscreen" title="Land Management with QGIS: A Comprehensive Workflow"></iframe```
+iframe src="https://gamma.app/embed/rqov72b9zju7kcj" style="width: 700px; max-width: 100%; height: 450px" allow="fullscreen" title="Land Management with QGIS: A Comprehensive Workflow"></iframe
+```
 
 [Facebook](https://www.facebook.com/mzwandile.thokoane/)
 [linkedIn](https://www.linkedin.com/in/mzwandile-thokoane-697577b1/)
