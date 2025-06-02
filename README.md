@@ -32,7 +32,7 @@
 > - Devising strategies to combat the spread of type II diabetes and the occurrence of death related thereto
 > - Keeping records of Diabetes related fatalities
 
-> ![LTPRI logo] (Images/)
+>![LTPRI logo](Images/LTPRI.jpg)
 > ### Executive Secretary: Lesotho Town and Regional Planning Institute. Maseru 
 
 
