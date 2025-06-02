@@ -23,7 +23,7 @@
 > - Street View photos
 > - @mapillary swag distribution
 
-> ![DAL logo](Images/DAL.jpg)
+> ![DAL logo](Images/DAL~2.jpg)
 > ### Chairperson; Diabetes Association of Lesotho, Berea: June 2022 to date 
 > #### Teyateyaneng
 > - Advocacy for Diabetes Mellitus 
