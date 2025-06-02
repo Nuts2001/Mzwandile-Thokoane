@@ -33,7 +33,7 @@
 > - Keeping records of Diabetes related fatalities
 
 > ![LTPRI logo] (Images/)
-> ###Executive Secretary: Lesotho Town and Regional Planning Institute 
+> ### Executive Secretary: Lesotho Town and Regional Planning Institute. Maseru 
 
 
 
